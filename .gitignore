@@ -12,5 +12,5 @@ wheels/
 
 # Chainlit
 ./Chainlit/
-.Chainlit/
+.chainlit/translations
 chainlit.md
