@@ -1,5 +1,5 @@
 [project]
-name = "langchain-intro-and-memory-management"
+name = "Hands-on-Intro-to-LangChain-and-LangGraph"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
