@@ -9,9 +9,9 @@ This repository provides a practical introduction to LangChain and LangGraph, fo
 ## Setup Instructions
 1. Clone & setup:
 ```
-git clone https://github.com/byahmedali/LangChain-Hands-on-Intro.git
+git clone https://github.com/byahmedali/Hands-on-Intro-to-LangChain-and-LangGraph.git
 
-cd LangChain-Hands-on-Intro
+cd Hands-on-Intro-to-LangChain-and-LangGraph
 
 uv sync
 ```
